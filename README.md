@@ -172,7 +172,7 @@ Internet Gateway for public subnets. NAT Gateway for outbound-only access from p
 
 **EC2 Instances**
 
-![EC2](docs/sc2.png)
+![EC2](docs/ec2.png)
 
 **FTPS (vsftpd) Configuration**
 

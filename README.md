@@ -158,33 +158,21 @@ Internet Gateway for public subnets. NAT Gateway for outbound-only access from p
 
 | VPC | Route Tables |
 |---|---|
-| ![VPC](docs/screenshots/01-vpc.png) | ![Route Tables](docs/screenshots/02-route-tables.png) |
+| ![VPC](docs/vpc.png) | ![Route Tables](docs/route_tables.png) |
 
 | Internet Gateway | NAT Gateway |
 |---|---|
-| ![IGW](docs/screenshots/03-igw.png) | ![NAT](docs/screenshots/04-nat.png) |
+| ![IGW](docs/igw.png) | ![NAT](docs/nat.png) |
 
 **Security Groups**
 
-![Security Groups](docs/screenshots/05-security-groups.png)
+![Security Groups](docs/sg.png)
 
 ### Compute and Linux
 
 **EC2 Instances**
 
-![EC2](docs/screenshots/06-ec2-instances.png)
-
-**Users and Groups**
-
-![Users and Groups](docs/screenshots/07-users-groups.png)
-
-**ACL Configuration and Permission Test**
-
-![ACL](docs/screenshots/08-acl.png)
-
-**Directory Structure**
-
-![Directories](docs/screenshots/09-directories.png)
+![EC2](docs/sc2.png)
 
 **FTPS (vsftpd) Configuration**
 
